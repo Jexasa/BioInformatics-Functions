@@ -1,2 +1,7 @@
-# PythonTool
-A tool made with python 100%
+# BionInformatics problems
+
+  Functions made when learning from rebelCoder
+  
+  contains functions for solving basic problems in BionInformatics
+  
+  
